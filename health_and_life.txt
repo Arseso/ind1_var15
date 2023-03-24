@@ -1,0 +1,167 @@
+United States     Japan
+Micronesia Fed. Sts.     Singapore
+Sierra Leone     Switzerland
+France     Australia
+Netherlands     Iceland
+Liberia     Spain
+Moldova     Italy
+Germany     Sweden
+Burundi     France
+Switzerland     Israel
+Denmark     Canada
+Canada     Luxembourg
+Kiribati     Norway
+Bosnia and Herzegovina     New Zealand
+Lesotho     Netherlands
+Austria     Austria
+Portugal     Costa Rica
+Costa Rica     Greece
+Belgium     Ireland
+Rwanda     Malta
+Serbia     United Kingdom
+Greece     Germany
+New Zealand     South Korea
+Georgia     Belgium
+United Kingdom     Finland
+Sweden     Cyprus
+Spain     Lebanon
+Italy     Portugal
+Japan     Denmark
+Norway     Qatar
+Slovenia     Slovenia
+Iceland     Chile
+Ireland     United States
+Timor-Leste     Kuwait
+Montenegro     Turkey
+Brazil     Maldives
+Uganda     Peru
+Finland     Panama
+South Africa     Czech Republic
+Slovak Republic     Brunei
+Australia     Tunisia
+Malta     Antigua and Barbuda
+Solomon Islands     Bosnia and Herzegovina
+Guinea-Bissau     Barbados
+Iraq     Ecuador
+Uruguay     Thailand
+Botswana     Algeria
+Panama     United Arab Emirates
+Argentina     Colombia
+Ecuador     Montenegro
+Jordan     Uruguay
+Barbados     Albania
+Chile     Croatia
+Congo Dem. Rep.     Poland
+Bahamas     Libya
+Czech Republic     Oman
+Luxembourg     Bahrain
+Croatia     Estonia
+Ukraine     Argentina
+Togo     Jordan
+Israel     Slovak Republic
+Colombia     Venezuela
+Afghanistan     Saudi Arabia
+Poland     Jamaica
+Hungary     Serbia
+Macedonia FYR     China
+Lithuania     Dominican Republic
+Lebanon     Hungary
+Suriname     Iran
+South Korea     Malaysia
+El Salvador     Sri Lanka
+Haiti     Brazil
+Bulgaria     El Salvador
+Guatemala     Paraguay
+Vietnam     Macedonia FYR
+Namibia     Bulgaria
+Turkey     Bahamas
+Burkina Faso     Romania
+Latvia     Morocco
+Malawi     Mauritius
+Albania     Seychelles
+Samoa     Armenia
+Maldives     Lithuania
+Sudan     Latvia
+Dominican Republic     Vietnam
+Tunisia     Georgia
+Kyrgyz Republic     Cape Verde
+Antigua and Barbuda     Bhutan
+Estonia     Bolivia
+Tanzania     St. Vincent and the Grenadines
+Mauritius     Samoa
+Tajikistan     Belize
+Cyprus     Grenada
+Zambia     Guatemala
+Azerbaijan     Timor-Leste
+Paraguay     Egypt
+Grenada     Bangladesh
+Uzbekistan     Belarus
+Gambia     Ukraine
+Cambodia     Suriname
+Senegal     Indonesia
+Belarus     Tonga
+Iran     Moldova
+Romania     Tajikistan
+Mongolia     Russia
+Guyana     Azerbaijan
+Cote d'Ivoire     Philippines
+Nepal     Uzbekistan
+Vanuatu     Kyrgyz Republic
+Ghana     Kazakhstan
+Mozambique     Nepal
+Morocco     Mauritania
+Bhutan     Turkmenistan
+Belize     Yemen
+Yemen     Iraq
+Niger     Myanmar
+Cameroon     Sudan
+Peru     India
+Russia     Mongolia
+China     Cambodia
+Tonga     Comoros
+Nigeria     Gambia
+Mali     Guyana
+Bahrain     Micronesia Fed. Sts.
+Guinea     Fiji
+Venezuela     Pakistan
+Fiji     Rwanda
+Bolivia     Senegal
+Jamaica     Lao
+Kenya     Vanuatu
+Egypt     Gabon
+Chad     Kenya
+Comoros     Ghana
+Equatorial Guinea     Benin
+St. Vincent and the Grenadines     Eritrea
+Lao     Solomon Islands
+Mauritania     Equatorial Guinea
+Armenia     Liberia
+Malaysia     Madagascar
+Saudi Arabia     Kiribati
+Kazakhstan     Nigeria
+Algeria     Congo Rep.
+Benin     Angola
+Cape Verde     Mali
+India     Tanzania
+Central African Republic     Niger
+Singapore     Togo
+Thailand     Namibia
+Libya     Guinea
+Madagascar     Burkina Faso
+United Arab Emirates     Burundi
+Philippines     Congo Dem. Rep.
+Bangladesh     Cameroon
+Gabon     Botswana
+Seychelles     Uganda
+Sri Lanka     Chad
+Angola     Cote d'Ivoire
+Brunei     Afghanistan
+Oman     Guinea-Bissau
+Eritrea     Sierra Leone
+Kuwait     Mozambique
+Indonesia     South Africa
+Turkmenistan     Malawi
+Congo Rep.     Zambia
+Pakistan     Central African Republic
+Myanmar     Lesotho
+Qatar     Haiti
